@@ -1,6 +1,7 @@
 Line 1
 Line 2
-Line 3
+Line 3 some text from the master
+More text from the master
 Line 4
 Line 5
 Line 6
